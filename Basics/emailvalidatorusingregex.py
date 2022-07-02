@@ -10,7 +10,7 @@ import re
 
 email_condition = "^[a-z]+[\._]?[a-z 0-9]+[@]\w+[.]\w{2,3}$" 
 #\ is used for searching in regex
-# ? returns is there is more tha]n 1 
+# ? returns is there is more than 1 
 # \w for searching
 # curly brackets for custom searching
 # $ for searching from back
